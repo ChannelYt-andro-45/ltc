@@ -1,6 +1,8 @@
 # ltc
 [ TOOL NUYUL BOT LTC ]
-Tools ini berfungsi untuk menuyul bot ltc yang ada di telegram tools ini juga bisa menembus reCAPTCHA tools ini dapat di jalankan oleh aplikasi Termux.
+Tools ini berfungsi untuk menuyul bot ltc yang ada di telegram 
+tools ini juga bisa menembus reCAPTCHA tools ini dapat di jalankan 
+oleh aplikasi Termux.
 
 Tools ini ada kelebihan dan kekuranganya
 yaitu :
